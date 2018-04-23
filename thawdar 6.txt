@@ -1,0 +1,12 @@
+type "git init"  				-Git ??????????
+type "git status"				-
+type "git add"				-
+type git commit -m "First"			- 
+type "git status"				-
+type "git remote add orign https://...."		-
+type "git push -u origin master"		-
+type "git pull orign master"			-
+type "git clone link"	
+
+'*txt (*=All)
+	
